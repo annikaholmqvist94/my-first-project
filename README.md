@@ -1,2 +1,2 @@
-# my-first-project
-my first project on github
+# My first project
+Learning basic Java syntax 
